@@ -1,0 +1,28 @@
+server:
+  port: 8080
+#
+#person:
+#  lastName: lzh
+#  age: 18
+#  boss: false
+#  birth: 2020/12/12
+#  maps: {k1: v1,k2: 12}
+#  lists:
+#    - create
+#    - aq
+#  dog:
+#    name:旺财
+#    age:1
+
+person:
+  lastName: hello
+  age: 18
+  boss: false
+  birth: 2017/12/12
+  maps: {k1: v1,k2: 12}
+  lists:
+    - lisi
+    - zhaoliu
+  dog:
+    name: 小狗
+    age: 12

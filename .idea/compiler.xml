@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot07-data_mybatis" />
+        <module name="springboot08-data_jpa" />
+        <module name="Springboot01-hello" />
+        <module name="springboot06-data_jdbc" />
+        <module name="springboot03-config" />
+        <module name="springboot05-webrestfulcrud" />
+        <module name="springboot04-logging" />
+        <module name="springboot02-quick" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot02-quick" options="-parameters" />
+      <module name="springboot03-config" options="-parameters" />
+      <module name="springboot04-logging" options="-parameters" />
+      <module name="springboot05-webrestfulcrud" options="-parameters" />
+      <module name="springboot06-data_jdbc" options="-parameters" />
+      <module name="springboot07-data_mybatis" options="" />
+      <module name="springboot08-data_jpa" options="-parameters" />
+    </option>
+  </component>
+</project>

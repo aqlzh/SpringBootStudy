@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97cbeff7-31af-479c-aa90-0a22afe0da9b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gZiowx4wQoa8VE9OKffVGfEnmy" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot08-data_jpa/src/main/java/com/lzh/springboot08data_jpa" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lzh.springboot08data_jpa.entity" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SpringBootStudy\springboot06-data_jdbc\src\main\resources\sql" />
+      <recent name="D:\SpringBootStudy\Springboot01-hello" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SpringBootStudy\springboot08-data_jpa\src\main\java\com\lzh\springboot08data_jpa" />
+      <recent name="D:\SpringBootStudy\springboot08-data_jpa\src\main\resources" />
+      <recent name="D:\SpringBootStudy\springboot07-data_mybatis\src\main\resources" />
+      <recent name="D:\SpringBootStudy\springboot07-data_mybatis\src\main\java\com\lzh\springboot07data_mybatis" />
+      <recent name="D:\SpringBootStudy\springboot07-data_mybatis\src\main\java\com\lzh\springboot07data_mybatis\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lzh.springboot07data_mybatis.config" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lzh.springboot05webrestfulcrud.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Springboot06DataJdbcApplicationTests.contextLoads">
+    <configuration name="Springboot03ConfigApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot03-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzh.springboot03config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzh.springboot03config" />
+      <option name="MAIN_CLASS_NAME" value="com.lzh.springboot03config.Springboot03ConfigApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03ConfigApplicationTests.testHelloService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot03-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzh.springboot03config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzh.springboot03config" />
+      <option name="MAIN_CLASS_NAME" value="com.lzh.springboot03config.Springboot03ConfigApplicationTests" />
+      <option name="METHOD_NAME" value="testHelloService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04LoggingApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot04-logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzh.springboot04logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzh.springboot04logging" />
+      <option name="MAIN_CLASS_NAME" value="com.lzh.springboot04logging.Springboot04LoggingApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot06DataJdbcApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot06-data_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzh.springboot06data_jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzh.springboot06data_jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.lzh.springboot06data_jdbc.Springboot06DataJdbcApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot01QuickhelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot02-quick" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.springboot01quickhello.Springboot01QuickhelloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot02QuickApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot02-quick" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.springboot02quick.Springboot02QuickApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot03-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.springboot03config.Springboot03ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04LoggingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot04-logging" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.springboot04logging.Springboot04LoggingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05WebrestfulcrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot05-webrestfulcrud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.springboot05webrestfulcrud.Springboot05WebrestfulcrudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot06DataJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot06-data_jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.springboot06data_jdbc.Springboot06DataJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07DataMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot07-data_mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.springboot07data_mybatis.Springboot07DataMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot08DataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot08-data_jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.springboot08data_jpa.Springboot08DataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot06DataJdbcApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot04LoggingApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot03ConfigApplicationTests.testHelloService" />
+        <item itemvalue="JUnit.Springboot03ConfigApplicationTests.contextLoads" />
+        <item itemvalue="Spring Boot.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97cbeff7-31af-479c-aa90-0a22afe0da9b" name="Default Changelist" comment="" />
+      <created>1598328694305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598328694305</updated>
+      <workItem from="1598328698292" duration="6385000" />
+      <workItem from="1598351446657" duration="640000" />
+      <workItem from="1598352144922" duration="2053000" />
+      <workItem from="1598416454389" duration="10220000" />
+      <workItem from="1598499257619" duration="13601000" />
+      <workItem from="1598599773760" duration="19742000" />
+      <workItem from="1598687121736" duration="9280000" />
+      <workItem from="1599189805874" duration="6129000" />
+      <workItem from="1599230451846" duration="6935000" />
+      <workItem from="1599238020434" duration="17000" />
+      <workItem from="1599287790066" duration="9116000" />
+      <workItem from="1599314618682" duration="347000" />
+      <workItem from="1599394450659" duration="38000" />
+      <workItem from="1599394505183" duration="192000" />
+      <workItem from="1599395061686" duration="75000" />
+      <workItem from="1599395153648" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Assign_Data_Sources" timestamp="1599297105259">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#Assign_Data_Sources/0.0.1536.834@0.0.1536.834" timestamp="1599297105259" />
+    <state x="361" y="75" key="#SQL_Dialects" timestamp="1599288606226">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#SQL_Dialects/0.0.1536.834@0.0.1536.834" timestamp="1599288606226" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599288615552">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1599288615552" />
+    <state x="572" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1598706688479">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="572" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1598706688479" />
+    <state x="284" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598706233964">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="284" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1598706233964" />
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598616823397">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1598616823397" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1598528269570">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1598528269570" />
+    <state width="1493" height="402" key="GridCell.Tab.0.bottom" timestamp="1599314597282">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="402" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599314597282" />
+    <state width="1493" height="402" key="GridCell.Tab.0.center" timestamp="1599314597282">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="402" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599314597282" />
+    <state width="1493" height="402" key="GridCell.Tab.0.left" timestamp="1599314597282">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="402" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599314597282" />
+    <state width="1493" height="402" key="GridCell.Tab.0.right" timestamp="1599314597282">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="402" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599314597282" />
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog" timestamp="1598708999057">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1598708999057" />
+    <state x="345" y="31" key="SettingsEditor" timestamp="1599395134165">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="345" y="31" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1599395134165" />
+    <state x="430" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1599395153664">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="430" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1599395153664" />
+    <state x="512" y="108" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1599296513989">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="512" y="108" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834@0.0.1536.834" timestamp="1599296513989" />
+    <state x="342" y="136" key="new project wizard" timestamp="1599292456628">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="342" y="136" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1599292456628" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1598694827577">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1598694827577" />
+  </component>
+</project>

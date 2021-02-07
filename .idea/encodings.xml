@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Springboot01-hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot02-quick/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot03-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot04-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot05-webrestfulcrud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot06-data_jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot07-data_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot08-data_jpa/src/main/java" charset="UTF-8" />
+  </component>
+</project>
